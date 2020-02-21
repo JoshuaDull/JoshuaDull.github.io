@@ -9,11 +9,7 @@ url: "https://joshuadull.github.io/"
 markdown: kramdown
 theme: minima
 
-# plugins
-plugins:
-  - jekyll-redirect-from
 
-github_user: JoshuaDull
 github_repo: joshuadull.github.io
 
 integration_spreadsheet_key: 1r6tughs2XrcV4C5PC1r3NWLqwmLVHY4SWjSCkLld6ws
