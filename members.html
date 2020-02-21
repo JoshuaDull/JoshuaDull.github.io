@@ -7,15 +7,12 @@ redirect_from:
   - /home/members
 ---
 <head><style>
-  img:hover {
-  opacity: 0.5;
-}
   .card {
-      width: 130px;
-      height: 195px;
+      width: 100px;
+      height: 100px;
       position: relative;
       display: inline-block;
-      margin: 50px;
+      margin: 10px;
   }
   .card .img-top {
       display: none;
@@ -26,7 +23,10 @@ redirect_from:
   }
   .card:hover .img-top {
       display: inline;
-  } 
+  }
+  .card:hover .img-back{
+    display: none    
+} 
 </style></head>
 <!-- Members -->
 {% assign members = site.data.members %}
@@ -38,7 +38,7 @@ redirect_from:
 <tr>
   <td>
     <div style="width:100px;float:left;margin:10px" class="card">
-      <img src="/images/carpentries200x200.png" alt="Carpentries' Logo">
+      <img src="/images/carpentries200x200.png" alt="Carpentries' Logo" class="img-back">
       <img src="/images/yale.png" class="img-top" alt="School Logo">
     </div>
     <div>
