@@ -1,9 +1,9 @@
 # Site settings
 title: NESCLiC
-github_username: NESCLiC
+github_username: JoshuaDull
 description: >
  New England Software Carpentry Library Consortium
-url: "https://nesclic.github.io/"
+url: "https://joshuadull.github.io/"
 
 # Build settings
 markdown: kramdown
@@ -13,7 +13,7 @@ theme: minima
 plugins:
   - jekyll-redirect-from
 
-github_user: joshuadull
+github_user: JoshuaDull
 github_repo: joshuadull.github.io
 
 integration_spreadsheet_key: 1r6tughs2XrcV4C5PC1r3NWLqwmLVHY4SWjSCkLld6ws
