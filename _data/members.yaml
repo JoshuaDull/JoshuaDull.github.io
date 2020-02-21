@@ -1,8 +1,16 @@
+- Name: Andrew Creamer
+  Institution: Brown
+  yearJoined: '2018'
+  Title: Scientific Data Management Librarian
+  Logo: brown.png
+  Pronouns: ''
+  Image: AC_Brown.jpg
+  Active: ''
 - Name: Sarah Oelker
   Institution: Mt Holyoke
   yearJoined: '2018'
   Title: Science Librarian
-  Lessons: ''
+  Logo: mtholyoke.png
   Pronouns: ''
   Image: soelker2015.jpg
   Active: ''
@@ -10,7 +18,7 @@
   Institution: Mt Holyoke
   yearJoined: '2018'
   Title: Research and Instruction Librarian
-  Lessons: ''
+  Logo: mtholyoke.png
   Pronouns: ''
   Image: Burkeapr18.jpg
   Active: ''
@@ -18,7 +26,7 @@
   Institution: UMass Amherst
   yearJoined: '2018'
   Title: Data Services Librarian
-  Lessons: ''
+  Logo: amherst.gif
   Pronouns: ''
   Image: tpa_profile02.jpg
   Active: ''
@@ -26,7 +34,7 @@
   Institution: Brown
   yearJoined: '2018'
   Title: Data Visualization Coordinator
-  Lessons: ''
+  Logo: brown.png
   Pronouns: ''
   Image: PR_Brown.png
   Active: ''
@@ -34,7 +42,7 @@
   Institution: Harvard
   yearJoined: '2018'
   Title: 'GIS, Data and Research Librarian'
-  Lessons: ''
+  Logo: harvard.png
   Pronouns: ''
   Image: BB_Brown.png
   Active: ''
@@ -42,7 +50,7 @@
   Institution: Dartmouth
   yearJoined: '2018'
   Title: Physical Sciences Librarian
-  Lessons: ''
+  Logo: dartmouth.jpg
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -50,7 +58,7 @@
   Institution: Dartmouth
   yearJoined: '2018'
   Title: Life Science Informatics Specialist
-  Lessons: ''
+  Logo: dartmouth.jpg
   Pronouns: ''
   Image: CD_Dartmouth.jpg
   Active: ''
@@ -58,7 +66,7 @@
   Institution: Harvard
   yearJoined: '2018'
   Title: Research Data Services Librarian
-  Lessons: ''
+  Logo: harvard.png
   Pronouns: ''
   Image: goldman-harvard.jpg
   Active: ''
@@ -66,7 +74,7 @@
   Institution: Harvard
   yearJoined: '2018'
   Title: 'Manager, Harvard Library Research Data Management Program'
-  Lessons: ''
+  Logo: harvard.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -74,7 +82,7 @@
   Institution: Tufts
   yearJoined: '2018'
   Title: Research Data Librarian
-  Lessons: ''
+  Logo: tufts.png
   Pronouns: she/her
   Image: KL_Tufts.jpg
   Active: ''
@@ -82,7 +90,7 @@
   Institution: Tufts
   yearJoined: '2018'
   Title: Social Science Data Librarian
-  Lessons: ''
+  Logo: tufts.png
   Pronouns: they/them
   Image: AG_Tufts.png
   Active: ''
@@ -90,7 +98,7 @@
   Institution: 'Tufts '
   yearJoined: '2018'
   Title: Senior Data Science Specialist
-  Lessons: ''
+  Logo: tufts.png
   Pronouns: he/him
   Image: KM_Tufts.jpg
   Active: ''
@@ -98,7 +106,7 @@
   Institution: Yale
   yearJoined: '2018'
   Title: Digital Humanities Support Librarian
-  Lessons: ''
+  Logo: yale.png
   Pronouns: ''
   Image: JD100x100.png
   Active: ''
@@ -106,7 +114,7 @@
   Institution: Yale
   yearJoined: '2018'
   Title: Digital Humanities Lab Manager
-  Lessons: ''
+  Logo: yale.png
   Pronouns: ''
   Image: CD100x100.png
   Active: ''
@@ -114,15 +122,15 @@
   Institution: Yale
   yearJoined: '2018'
   Title: Research and Education Librarian for Public Health
-  Lessons: ''
+  Logo: yale.png
   Pronouns: ''
-  Image: KN100x00.png
+  Image: KN100x100.png
   Active: ''
 - Name: James Adams
   Institution: Dartmouth
   yearJoined: ''
   Title: Data and Visualization Librarian
-  Lessons: ''
+  Logo: dartmouth.jpg
   Pronouns: ''
   Image: JA_Dartmouth.png
   Active: ''
@@ -130,7 +138,7 @@
   Institution: Brown
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: brown.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -138,7 +146,7 @@
   Institution: Brown
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: brown.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -146,7 +154,7 @@
   Institution: Dartmouth
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: dartmouth.jpg
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -154,7 +162,7 @@
   Institution: Dartmouth
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: dartmouth.jpg
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -162,7 +170,7 @@
   Institution: Harvard
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: harvard.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -170,7 +178,7 @@
   Institution: Tufts
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: tufts.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -178,7 +186,7 @@
   Institution: Tufts
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: tufts.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -186,7 +194,7 @@
   Institution: UConn
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: ''
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -194,7 +202,7 @@
   Institution: UMass Amherst
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: amherst.gif
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -202,7 +210,7 @@
   Institution: UMass Amherst
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: amherst.gif
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -210,7 +218,7 @@
   Institution: 'UMass Medical '
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: ''
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -218,7 +226,7 @@
   Institution: 'UMass Medical '
   yearJoined: '2019'
   Title: ''
-  Lessons: ''
+  Logo: ''
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -226,7 +234,7 @@
   Institution: Yale
   yearJoined: '2019'
   Title: Digital Preservation Librarian
-  Lessons: ''
+  Logo: yale.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -234,7 +242,7 @@
   Institution: Yale
   yearJoined: '2019'
   Title: Data Librarian
-  Lessons: ''
+  Logo: yale.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -242,7 +250,7 @@
   Institution: Yale
   yearJoined: '2019'
   Title: Data Librarian for the Health Sciences
-  Lessons: ''
+  Logo: yale.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -250,7 +258,7 @@
   Institution: Boston College
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: ''
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -258,7 +266,7 @@
   Institution: Boston University
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: ''
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -266,7 +274,7 @@
   Institution: Brandeis
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: ''
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -274,7 +282,7 @@
   Institution: Brown
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: brown.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -282,7 +290,7 @@
   Institution: Brown
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: brown.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -290,7 +298,7 @@
   Institution: Brown
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: brown.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -298,7 +306,7 @@
   Institution: Dartmouth
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: dartmouth.jpg
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -306,7 +314,7 @@
   Institution: Dartmouth
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: dartmouth.jpg
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -314,7 +322,7 @@
   Institution: Dartmouth
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: dartmouth.jpg
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -322,7 +330,7 @@
   Institution: Dartmouth
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: dartmouth.jpg
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -330,7 +338,7 @@
   Institution: Harvard
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: harvard.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -338,7 +346,7 @@
   Institution: Harvard
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: harvard.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -346,7 +354,7 @@
   Institution: Northeastern
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: ''
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -354,7 +362,7 @@
   Institution: Northeastern
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: ''
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -362,7 +370,7 @@
   Institution: Tufts
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: tufts.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -370,7 +378,7 @@
   Institution: Tufts
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: tufts.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -378,7 +386,7 @@
   Institution: Tufts
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: tufts.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -386,7 +394,7 @@
   Institution: Tufts
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: tufts.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -394,7 +402,7 @@
   Institution: Tufts
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: tufts.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -402,7 +410,7 @@
   Institution: Yale
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: yale.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -410,7 +418,7 @@
   Institution: Yale
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: yale.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
@@ -418,7 +426,7 @@
   Institution: Yale
   yearJoined: '2020'
   Title: ''
-  Lessons: ''
+  Logo: yale.png
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
