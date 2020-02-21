@@ -28,9 +28,8 @@ title: Members2
 <ul class="flex-container">
 {% for member in members %}
   <li class="flex-item">
-    <div style="width:100px;height:100px;float:left;margin:10px" class="card">
-      <img src="/images/{{ member.Image }}" alt="Carpentries' Logo" class="img-back">
-      <img src="/images/{{ member.Logo }}" class="img-top" alt="School Logo">
+    <div style="width:100px;height:100px;float:left;margin:10px">
+      <img src="/images/{{ member.Image }}" alt="Carpentries' Logo">
     </div>
     <div>
       <b>{{ member.Name }}</b> <i>{{ member.Pronouns }}</i><br>
