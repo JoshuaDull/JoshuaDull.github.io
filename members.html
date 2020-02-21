@@ -6,7 +6,11 @@ redirect_from:
   - /home/members/
   - /home/members
 ---
-
+<head><style>
+img:hover {
+  opacity: 0.5;
+} 
+</style></head>
 <!-- Members -->
 {% assign members = site.data.members %}
 {% assign members = members | sort:"yearJoined" %}
@@ -27,6 +31,5 @@ redirect_from:
     </div>
   </td>
 </tr>
-
 {% endfor %}
 </table>
