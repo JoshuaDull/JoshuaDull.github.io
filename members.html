@@ -15,10 +15,17 @@ redirect_from:
 <table>
 {% for member in members %}
 <tr>
-  <td><strong>{{ member.Name }}</strong> ({{ member.Pronouns }})</td>
-  <td>{{ member.yearJoined }}</td>
-  <td>{{ member.Institution }}</td>
-  <td>{{ member.Title }}</td>
+  <td>
+    <div style="width:100px;float:left;margin:10px">
+      <img src="/images/carpentries200x200.png" alt="Carpentries' Logo">
+    </div>
+    <div>
+      <b>{{ member.Name }}</b> <i>{{ member.Pronouns }}</i><br>
+     {{ member.Title }} <br>
+     {{ member.Institution }} <br> 
+     Certified since {{ member.yearJoined }}
+    </div>
+  </td>
 </tr>
 
 {% endfor %}
