@@ -1,31 +1,23 @@
 ---
 layout: page
-title: Members
-permalink: /members/
-redirect_from: 
-  - /home/members/
-  - /home/members
+title: Members2
+
 ---
 <head><style>
-  .card {
-      width: 100px;
-      height: 100px;
-      position: relative;
-      display: inline-block;
-      margin: 10px;
-  }
-  .card .img-top {
-      display: none;
-      position: absolute;
-      top: 0;
-      left: 0;
-      z-index: 99;
-  }
-  .card:hover .img-top {
-      display: inline;
-  }
-  .card:hover .img-back{
-    display: none    
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;  
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.flex-item {
+  padding: 5px;
+  width: 300px;
+  height: 150px;
+  margin: 10px;
 } 
 </style></head>
 <!-- Members -->
@@ -33,10 +25,9 @@ redirect_from:
 {% assign members = members | sort:"yearJoined" %}
 
 <!-- Document -->
-<table>
+<ul class="flex-container">
 {% for member in members %}
-<tr>
-  <td>
+  <li class="flex-item">
     <div style="width:100px;height:100px;float:left;margin:10px" class="card">
       <img src="/images/{{ member.Image }}" alt="Carpentries' Logo" class="img-back">
       <img src="/images/{{ member.Logo }}" class="img-top" alt="School Logo">
@@ -47,7 +38,6 @@ redirect_from:
      {{ member.Institution }} <br> 
      Member since {{ member.yearJoined }}
     </div>
-  </td>
-</tr>
+  </li>
 {% endfor %}
-</table>
+</ul>
