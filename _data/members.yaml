@@ -4,15 +4,15 @@
   Title: Science Librarian
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: soelker2015.jpg
   Active: ''
 - Name: James Burke
   Institution: Mt Holyoke
   yearJoined: '2018'
-  Title: ''
+  Title: Research and Instruction Librarian
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: Burkeapr18.jpg
   Active: ''
 - Name: Thea Atwood
   Institution: UMass Amherst
@@ -20,7 +20,7 @@
   Title: Data Services Librarian
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: tpa_profile02.jpg
   Active: ''
 - Name: Patrick Rashleigh
   Institution: Brown
@@ -28,7 +28,7 @@
   Title: Data Visualization Coordinator
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: PR_Brown.png
   Active: ''
 - Name: Bruce Boucek
   Institution: Harvard
@@ -36,7 +36,7 @@
   Title: 'GIS, Data and Research Librarian'
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: BB_Brown.png
   Active: ''
 - Name: Lora C. Leligdon
   Institution: Dartmouth
@@ -44,7 +44,7 @@
   Title: Physical Sciences Librarian
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: 'Christian Darabos '
   Institution: Dartmouth
@@ -52,7 +52,7 @@
   Title: Life Science Informatics Specialist
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: CD_Dartmouth.jpg
   Active: ''
 - Name: Julie Goldman
   Institution: Harvard
@@ -60,7 +60,7 @@
   Title: Research Data Services Librarian
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: goldman-harvard.jpg
   Active: ''
 - Name: Ceilyn Boyd
   Institution: Harvard
@@ -68,7 +68,7 @@
   Title: 'Manager, Harvard Library Research Data Management Program'
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Kristin Lee
   Institution: Tufts
@@ -76,7 +76,7 @@
   Title: Research Data Librarian
   Lessons: ''
   Pronouns: she/her
-  PictureLink: ''
+  Image: KL_Tufts.jpg
   Active: ''
 - Name: Ari Gofman
   Institution: Tufts
@@ -84,7 +84,7 @@
   Title: Social Science Data Librarian
   Lessons: ''
   Pronouns: they/them
-  PictureLink: ''
+  Image: AG_Tufts.png
   Active: ''
 - Name: Kyle Monahan
   Institution: 'Tufts '
@@ -92,7 +92,7 @@
   Title: Senior Data Science Specialist
   Lessons: ''
   Pronouns: he/him
-  PictureLink: ''
+  Image: KM_Tufts.jpg
   Active: ''
 - Name: Joshua Dull
   Institution: Yale
@@ -100,7 +100,7 @@
   Title: Digital Humanities Support Librarian
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: JD100x100.png
   Active: ''
 - Name: Catherine DeRose
   Institution: Yale
@@ -108,7 +108,7 @@
   Title: Digital Humanities Lab Manager
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: CD100x100.png
   Active: ''
 - Name: Kate Nyhan
   Institution: Yale
@@ -116,7 +116,7 @@
   Title: Research and Education Librarian for Public Health
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: KN100x00.png
   Active: ''
 - Name: James Adams
   Institution: Dartmouth
@@ -124,7 +124,7 @@
   Title: Data and Visualization Librarian
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: JA_Dartmouth.png
   Active: ''
 - Name: Kelsey Sawyer
   Institution: Brown
@@ -132,7 +132,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Ashley Champagne
   Institution: Brown
@@ -140,7 +140,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Pamela Bagley
   Institution: Dartmouth
@@ -148,7 +148,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Stephen Gaughan
   Institution: Dartmouth
@@ -156,7 +156,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Meghan Kerr
   Institution: Harvard
@@ -164,7 +164,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Susan Remondi
   Institution: Tufts
@@ -172,7 +172,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Travis Lilleberg
   Institution: Tufts
@@ -180,7 +180,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Jennifer Chaput
   Institution: UConn
@@ -188,7 +188,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Erin Jerome
   Institution: UMass Amherst
@@ -196,7 +196,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Ann Kardos
   Institution: UMass Amherst
@@ -204,7 +204,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Tess Grynoch
   Institution: 'UMass Medical '
@@ -212,7 +212,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Sally Gore
   Institution: 'UMass Medical '
@@ -220,7 +220,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: David Cirella
   Institution: Yale
@@ -228,7 +228,7 @@
   Title: Digital Preservation Librarian
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Barbara Esty
   Institution: Yale
@@ -236,7 +236,7 @@
   Title: Data Librarian
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Sawyer Newman
   Institution: Yale
@@ -244,7 +244,7 @@
   Title: Data Librarian for the Health Sciences
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Allison Xu
   Institution: Boston College
@@ -252,7 +252,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Philip Espinola Coombs
   Institution: Boston University
@@ -260,7 +260,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Margarita Corral
   Institution: Brandeis
@@ -268,7 +268,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Emily Ferrier
   Institution: Brown
@@ -276,7 +276,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Lydia Curliss
   Institution: Brown
@@ -284,7 +284,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Crystal Brusch
   Institution: Brown
@@ -292,7 +292,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Jing Qi
   Institution: Dartmouth
@@ -300,7 +300,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: John Cocklin
   Institution: Dartmouth
@@ -308,7 +308,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Paige Scudder
   Institution: Dartmouth
@@ -316,7 +316,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Richard Brittain
   Institution: Dartmouth
@@ -324,7 +324,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Matt Cook
   Institution: Harvard
@@ -332,7 +332,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Sarah Hauserman
   Institution: Harvard
@@ -340,7 +340,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Bahare Sanaie-Movahed
   Institution: Northeastern
@@ -348,7 +348,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Kate Kryder
   Institution: Northeastern
@@ -356,7 +356,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Andrea Kang
   Institution: Tufts
@@ -364,7 +364,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Berika Williams
   Institution: Tufts
@@ -372,7 +372,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Chelcie Rowell
   Institution: Tufts
@@ -380,7 +380,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Jake Perl
   Institution: Tufts
@@ -388,7 +388,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Rebecca Morin
   Institution: Tufts
@@ -396,7 +396,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Kaleigh Bohemier
   Institution: Yale
@@ -404,7 +404,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Rashelle Nagar
   Institution: Yale
@@ -412,7 +412,7 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
 - Name: Sara Gottlieb-Cohen
   Institution: Yale
@@ -420,5 +420,5 @@
   Title: ''
   Lessons: ''
   Pronouns: ''
-  PictureLink: ''
+  Image: carpentries200x200.png
   Active: ''
