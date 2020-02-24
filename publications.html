@@ -1,8 +1,14 @@
 ---
 layout: page
-title: Publications2
+title: Publications
+permalink: /publications/
+redirect_from: /home/publications/
 ---
-
+<head><style type="text/css">
+	.date {
+		width:75px;
+	}
+</style></head>
 Check back for publications, blog posts, and presentations by NESCLiC members. 
 
 <!-- Publications -->
@@ -18,7 +24,7 @@ Check back for publications, blog posts, and presentations by NESCLiC members.
 	</tr>
 	{% for pub in publications %}
 	<tr>
-		<td>{{ pub.date }}</td>
+		<td class="date">{{ pub.date }}</td>
 		<td>{{ pub.citation }}</td>
 		<td><a href="{{ pub.link }}">{{ pub.type }}</a></td>
 	</tr>
