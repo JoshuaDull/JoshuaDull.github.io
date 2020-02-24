@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Members
-
+permalink: /members/
+redirect_from: /home/members/
 ---
 <head><style>
 .headshot {
   width:100px;
   height:100px;
   float:left;
+  margin-right: 10px;
 }
 
 .flex-container {
@@ -26,7 +28,7 @@ title: Members
   margin: 10px;
 }
 
-#id {
+#name {
   font: Roboto;
   font-size: 24px;
 }
@@ -55,9 +57,10 @@ title: Members
       <img src="/images/{{ member.Image }}" alt="Carpentries' Logo">
     </div>
     <div>
-      <span id="name"><b>{{ member.Name }}</b></span><br> 
+      <span id="name"><b>{{ member.Name }}</b></span>
+      <span id="pronouns"><i>{{ member.Pronouns }}</i></span><br> 
       <span id="title">{{ member.Title }} </span><br>
-      <span id="pronouns"><i>{{ member.Pronouns }}</i></span><br>
+
      {{ member.Institution }} <br> 
      Member since {{ member.yearJoined }}
     </div>

@@ -4,6 +4,12 @@ title: Members2
 
 ---
 <head><style>
+.headshot {
+  width:100px;
+  height:100px;
+  float:left;
+  margin-right: 10px;
+}
 .flex-container {
   display: flex;
   flex-flow: row wrap;  
@@ -12,13 +18,22 @@ title: Members2
   margin: 0;
   list-style: none;
 }
-
 .flex-item {
   padding: 5px;
-  width: 150px;
-  height: 400px;
+  width: 125px;
+  height: 200px;
   margin: 10px;
-} 
+}
+.clip-circle {
+  clip-path: circle(50px at center);
+}
+.description {
+  text-align: center;
+}
+#name {
+  font: Roboto;
+  font-size: 24px;
+}
 </style></head>
 <!-- Members -->
 {% assign members = site.data.members %}
@@ -28,11 +43,12 @@ title: Members2
 <ul class="flex-container">
 {% for member in members %}
   <li class="flex-item">
-    <div style="width:100px;height:100px;float:left;margin:10px">
-      <img src="/images/{{ member.Image }}" alt="Carpentries' Logo">
+    <div class="headshot">
+      <img src="/images/{{ member.Image }}" alt="Carpentries' Logo" class="clip-circle">
     </div><br>
-    <div>
-      <b>{{ member.Name }}</b> <i>{{ member.Pronouns }}</i><br>
+    <div class="description">
+      <span id="name"><b>{{ member.Name }}</b></span><br> 
+      <i>{{ member.Pronouns }}</i><br>
      {{ member.Institution }} <br> 
      Member since {{ member.yearJoined }}
     </div>
