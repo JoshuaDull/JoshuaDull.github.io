@@ -15,14 +15,14 @@ title: Members2
 
 .flex-item {
   padding: 5px;
-  width: 300px;
-  height: 150px;
+  width: 150px;
+  height: 400px;
   margin: 10px;
 } 
 </style></head>
 <!-- Members -->
 {% assign members = site.data.members %}
-{% assign members = members | sort:"yearJoined" %}
+{% assign members = members | sort:"sortName" %}
 
 <!-- Document -->
 <ul class="flex-container">
@@ -30,10 +30,9 @@ title: Members2
   <li class="flex-item">
     <div style="width:100px;height:100px;float:left;margin:10px">
       <img src="/images/{{ member.Image }}" alt="Carpentries' Logo">
-    </div>
+    </div><br>
     <div>
       <b>{{ member.Name }}</b> <i>{{ member.Pronouns }}</i><br>
-     {{ member.Title }} <br>
      {{ member.Institution }} <br> 
      Member since {{ member.yearJoined }}
     </div>

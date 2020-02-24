@@ -1,53 +1,66 @@
 ---
 layout: page
 title: Members
-permalink: /members/
-redirect_from: 
-  - /home/members/
-  - /home/members
+
 ---
 <head><style>
-  .card {
-      width: 100px;
-      height: 100px;
-      position: relative;
-      display: inline-block;
-      margin: 10px;
-  }
-  .card .img-top {
-      display: none;
-      position: absolute;
-      top: 0;
-      left: 0;
-      z-index: 99;
-  }
-  .card:hover .img-top {
-      display: inline;
-  }
-  .card:hover .img-back{
-    display: none    
+.headshot {
+  width:100px;
+  height:100px;
+  float:left;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;  
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.flex-item {
+  padding: 5px;
+  width: 300px;
+  height: 150px;
+  margin: 10px;
+}
+
+#id {
+  font: Roboto;
+  font-size: 24px;
+}
+
+#title {
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 1.0;
 } 
+
+#pronouns {
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 1.0;
+}
 </style></head>
 <!-- Members -->
 {% assign members = site.data.members %}
-{% assign members = members | sort:"yearJoined" %}
+{% assign members = members | sort:"sortName" %}
 
 <!-- Document -->
-<table>
+<ul class="flex-container">
 {% for member in members %}
-<tr>
-  <td>
-    <div style="width:100px;height:100px;float:left;margin:10px" class="card">
-      <img src="/images/{{ member.Image }}" alt="Carpentries' Logo" class="img-back">
-      <img src="/images/{{ member.Logo }}" class="img-top" alt="School Logo">
+  <li class="flex-item">
+    <div class="headshot">
+      <img src="/images/{{ member.Image }}" alt="Carpentries' Logo">
     </div>
     <div>
-      <b>{{ member.Name }}</b> <i>{{ member.Pronouns }}</i><br>
-     {{ member.Title }} <br>
+      <span id="name"><b>{{ member.Name }}</b></span><br> 
+      <span id="title">{{ member.Title }} </span><br>
+      <span id="pronouns"><i>{{ member.Pronouns }}</i></span><br>
      {{ member.Institution }} <br> 
      Member since {{ member.yearJoined }}
     </div>
-  </td>
-</tr>
+  </li>
 {% endfor %}
-</table>
+</ul>
