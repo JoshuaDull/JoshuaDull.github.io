@@ -7,7 +7,10 @@ title: Members2
 .headshot {
   width:100px;
   height:100px;
-  margin: 10px;
+  padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .flex-container {
   display: flex;
@@ -25,15 +28,14 @@ title: Members2
 }
 .clip-circle {
   clip-path: circle(50px at center);
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 .description {
   text-align: center;
+  font-weight: 200;
+  font-size: 14px;
 }
 #name {
-  font-size: 16px;
+  font-size: 18px;
   color: #424242;
   font-weight: 300;
 }
@@ -50,8 +52,8 @@ title: Members2
       <img src="/images/{{ member.Image }}" alt="Carpentries' Logo" class="clip-circle">
     </div><br>
     <div class="description">
-      <span id="name"><b>{{ member.Name }}</b></span><br> 
-      <i>{{ member.Pronouns }}</i><br>
+      <span id="name">{{ member.Name }}</span><br> 
+      <span id="pronouns"><i>{{ member.Pronouns }}</i></span><br>
      {{ member.Institution }} <br> 
      {{ member.yearJoined }}
     </div>
