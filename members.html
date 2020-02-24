@@ -8,10 +8,10 @@ redirect_from: /home/members/
 .headshot {
   width:100px;
   height:100px;
-  float:left;
-  margin-right: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 .flex-container {
   display: flex;
   flex-flow: row wrap;  
@@ -20,28 +20,25 @@ redirect_from: /home/members/
   margin: 0;
   list-style: none;
 }
-
 .flex-item {
   padding: 5px;
-  width: 300px;
-  height: 150px;
+  width: 150px;
+  height: 225px;
   margin: 10px;
 }
-
-#name {
-  font: Roboto;
-  font-size: 24px;
-  line-height: 1.0;
+.clip-circle {
+  clip-path: circle(50px at center);
 }
-
-#title {
+.description {
+  text-align: center;
   font-weight: 200;
   font-size: 14px;
-} 
-
-#pronouns {
-  font-weight: 200;
-  font-size: 14px;
+}
+#name {
+  font-size: 18px;
+  color: #424242;
+  font-weight: 300;
+  line-height: 1.0;
 }
 </style></head>
 <!-- Members -->
@@ -53,15 +50,13 @@ redirect_from: /home/members/
 {% for member in members %}
   <li class="flex-item">
     <div class="headshot">
-      <img src="/images/{{ member.Image }}" alt="Carpentries' Logo">
-    </div>
-    <div>
-      <span id="name"><b>{{ member.Name }}</b></span>
-      <span id="pronouns"><i>{{ member.Pronouns }}</i></span><br> 
-      <span id="title">{{ member.Title }} </span><br>
-
+      <img src="/images/{{ member.Image }}" alt="Carpentries' Logo" class="clip-circle">
+    </div><br>
+    <div class="description">
+      <span id="name">{{ member.Name }}</span><br> 
+      <span id="pronouns"><i>{{ member.Pronouns }}</i></span><br>
      {{ member.Institution }} <br> 
-     Member since {{ member.yearJoined }}
+     {{ member.yearJoined }}
     </div>
   </li>
 {% endfor %}
