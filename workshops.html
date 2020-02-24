@@ -1,0 +1,28 @@
+---
+layout: page
+title: Workshops
+permalink: /workshops/
+redirect_from: /home/workshops/
+---
+Check back for future workshops offered by NESCLiC members. 
+<p><em>This list includes official Carpentries' workshops and workshops adapted from the Carpentries' materials where NESCLiC members served as hosts, instructors, or helpers .</em></p>
+
+<!-- Publications -->
+{% assign workshops = site.data.workshops %}
+{% assign workshops = workshops | sort:"startDate" %}
+
+<!-- Document -->
+<table>
+	<tr>
+		<th>Venue</th>
+		<th>Dates</th>
+		<th>Lessons</th>
+	</tr>
+	{% for workshop in workshops %}
+	<tr>
+		<td><a href="{{ workshop.link }}">{{ workshop.venue }}</a></td>
+		<td>{{ workshop.dates }}</td>
+		<td>{{ workshop.lessons }}</td>
+	</tr>
+	{% endfor %}
+</table>

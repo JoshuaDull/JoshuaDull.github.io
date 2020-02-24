@@ -1,0 +1,28 @@
+---
+layout: page
+title: Publications & Presentations
+permalink: /publications/
+redirect_from: /home/publications/
+---
+Check back for publications, blog posts, and presentations by NESCLiC members. 
+
+<!-- Publications -->
+{% assign pubs = site.data.publications %}
+{% assign pubs = pubs | sort:"date" %}
+
+<!-- Document -->
+<table>
+	<tr>
+		<th>Title</th>
+		<th>Date</th>
+		<th>Citation</th>
+		<th>Link</th>
+	</tr>
+	{% for pub in pubs %}
+	<tr>
+		<td>{{ pub.date }}</td>
+		<td>{{ pub.citation }}</td>
+		<td><a href="{{ pub.link }}">{{ pub.type }}</a></td>
+	</tr>
+	{% endfor %}
+</table>
