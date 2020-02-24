@@ -7,8 +7,8 @@ redirect_from: /home/publications/
 Check back for publications, blog posts, and presentations by NESCLiC members. 
 
 <!-- Publications -->
-{% assign pubs = site.data.pubs %}
-{% assign pubs = pubs | sort:"date" %}
+{% assign publications = site.data.publications %}
+{% assign publications = publications | sort:"date" %}
 
 <!-- Document -->
 <table>
@@ -18,7 +18,7 @@ Check back for publications, blog posts, and presentations by NESCLiC members.
 		<th>Citation</th>
 		<th>Link</th>
 	</tr>
-	{% for pub in pubs %}
+	{% for pub in publications %}
 	<tr>
 		<td>{{ pub.date }}</td>
 		<td>{{ pub.citation }}</td>
