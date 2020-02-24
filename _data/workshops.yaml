@@ -1,0 +1,148 @@
+- venue: Dartmouth College
+  link: 'https://nesclic.github.io/2019-12-05-dartmouth/'
+  dates: 'December 5-6, 2019'
+  startDate: '2019-12-05'
+  lessons: 'Software Carpentry: Unix, Python, Git'
+- venue: Harvard University
+  link: 'https://nesclic.github.io/2019-10-28-harvard/'
+  dates: 'October 28-29, 2019'
+  startDate: '2019-10-28'
+  lessons: 'Data Carpentry: Data Analysis and Visualization in R & Geospatial Data'
+- venue: Brown University Library
+  link: 'https://nesclic.github.io/2019-10-21-NEASIST-Brown/'
+  dates: 'October 21-22, 2019'
+  startDate: '2019-10-21'
+  lessons: Library Carpentry
+- venue: 'Massachusetts Institute of Technology (Hosts), Harvard (Instructor)'
+  link: 'https://yelibrarian.github.io/2019-10-11-mit/'
+  dates: 'October 11-12, 2019'
+  startDate: '2019-10-11'
+  lessons: 'Software Carpentry: Intro to UnixShell/Python/Git'
+- venue: 'WHOI (Hosts), Tufts (Instructor)'
+  link: 'https://nesclic.github.io/2019-10-03-whoi/'
+  dates: 'October 3-4, 2019'
+  startDate: '2019-10-03'
+  lessons: Software Carpentry
+- venue: Yale University Library
+  link: 'https://github.com/NESCLiC/2019-07-24-YULTS'
+  dates: 'July 24, 2019'
+  startDate: '2019-07-24'
+  lessons: Library Carpentry
+- venue: Dartmouth College
+  link: 'https://nesclic.github.io/2019-06-13-dartmouth/'
+  dates: 'June 13-14, 2019'
+  startDate: '2019-06-13'
+  lessons: 'Unix, Git, R for Reproducible Scientific Analysis'
+- venue: Yale University Library
+  link: 'https://github.com/NESCLiC/2019-06-12-Yale'
+  dates: 'June 12-13, 2019'
+  startDate: '2019-06-12'
+  lessons: Library Carpentry
+- venue: Mount Holyoke College
+  link: 'https://nesclic.github.io/2019-06-11-Mount-Holyoke/'
+  dates: 'June 11-12, 2019'
+  startDate: '2019-06-11'
+  lessons: 'Unix, Git, Programming with Python'
+- venue: Tufts University
+  link: 'https://nesclic.github.io/2019-04-12-tufts'
+  dates: 'April 12-13, 2019'
+  startDate: '2019-04-12'
+  lessons: 'Unix, Git, Programming with Python'
+- venue: Yale University Library
+  link: 'https://nesclic.github.io/2019-03-21-Yale/'
+  dates: 'March 21-22, 2019'
+  startDate: '2019-03-21'
+  lessons: 'Unix, Git, Programming with Python'
+- venue: Tufts University
+  link: 'https://nesclic.github.io/2019-02-15-tufts'
+  dates: 'February 15-16, 2019'
+  startDate: '2019-02-15'
+  lessons: >-
+    Data Organization in Spreadsheets, OpenRefine for Data Cleaning, R for
+    Social Scientists
+- venue: Brown University
+  link: 'https://nesclic.github.io/2019-01-16-BrownUniversity'
+  dates: 'January 16-17, 2019'
+  startDate: '2019-01-16'
+  lessons: >-
+    Data Organization in Spreadsheets, OpenRefine for Data Cleaning,
+    Introduction to R, Data Analysis and Visualization in R, Data Management
+    with SQL
+- venue: Harvard University
+  link: 'https://nesclic.github.io/2019-01-15-harvard'
+  dates: 'January 15-16, 2019'
+  startDate: '2019-01-15'
+  lessons: >-
+    Data Intro for Librarians, Shell Lessons for Libraries, Tidy Data for
+    Librarians, OpenRefine for Librarians
+- venue: UMass Amerhest
+  link: 'https://nesclic.github.io/2019-01-08-umass/'
+  dates: 'January 8-9, 2019'
+  startDate: '2019-01-08'
+  lessons: 'Unix, Python, Git'
+- venue: Dartmouth College
+  link: 'https://nesclic.github.io/2018-11-29-dartmouth/'
+  dates: 'November 29-30, 2018'
+  startDate: '2018-11-29'
+  lessons: 'Unix, Git, Python'
+- venue: Tufts University
+  link: 'https://nesclic.github.io/2018-11-09-tufts/'
+  dates: 'November 9-10, 2018'
+  startDate: '2018-11-09'
+  lessons: 'Unix, Git, Programming with Python'
+- venue: 'Brown University Library (Hosts & Helpers), Yale and Tufts (Instructors)'
+  link: 'https://nesclic.github.io/2018-10-22-NEASIST-Brown/'
+  dates: 'October 22-23, 2018'
+  startDate: '2018-10-22'
+  lessons: >-
+    Data Intro for Librarians, Shell Lesson for Librarians, Git Intro for
+    Librarians, OpenRefine for Librarians
+- venue: Yale University Library
+  link: 'https://nesclic.github.io/2018-08-15-YUL/'
+  dates: 'August 15-16, 2018'
+  startDate: '2018-08-15'
+  lessons: >-
+    Tidy Data for Librarians, Shell Lesson for Librarians, OpenRefine for
+    Librarians, Python Intro for Libraries
+- venue: Dartmouth College
+  link: 'https://nesclic.github.io/2018-06-28-Dartmouth/'
+  dates: 'June 28-29, 2018'
+  startDate: '2018-06-28'
+  lessons: 'Unix, Git, Programming with R'
+- venue: 'Berklee School of Music (Hosts), Tufts (Instructors)'
+  link: 'https://nesclic.github.io/2018-06-08-berklee/'
+  dates: 'June 8, 2018'
+  startDate: '2018-06-08'
+  lessons: >-
+    Data Intro for Librarians, Shell Lesson for Librarians, OpenRefine for
+    Librarians
+- venue: 'SCSU (Hosts), Yale (Helpers)'
+  link: 'https://bpteague.github.io/2018-05-03-scsu/'
+  dates: 'May 3-4, 2018'
+  startDate: '2018-05-03'
+  lessons: 'Unix, Git, R'
+- venue: Yale University Library
+  link: 'https://nesclic.github.io/2018-04-18-YUL/'
+  dates: 'April 18, 2018'
+  startDate: '2018-04-18'
+  lessons: Programming with Python
+- venue: Yale University Library
+  link: 'https://yaledhlab.github.io/2018-03-12-YUL/'
+  dates: 'March 12, 16, & 19, 2018'
+  startDate: '2018-03-12'
+  lessons: 'Intro to Data, Unix, Git, OpenRefine'
+- venue: Dartmouth College
+  link: 'https://nesclic.github.io/2017-12-04-dartmouth/'
+  dates: 'December 4-5, 2017'
+  startDate: '2017-12-04'
+  lessons: 'Unix, Python, Git'
+- venue: Virtual
+  link: 'https://carpentries.org/become-instructor/'
+  dates: 'January 30-31, 2018'
+  startDate: '2018-01-30'
+  lessons: Instructor Training
+- venue: Tufts
+  link: 'https://nesclic.github.io/2017-11-17-tufts/'
+  dates: 'November 17-18, 2017'
+  startDate: '2017-11-17'
+  lessons: 'Unix, Python, Git'
