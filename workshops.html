@@ -10,7 +10,7 @@ Check back for future workshops offered by NESCLiC members.
 
 <!-- Publications -->
 {% assign workshops = site.data.workshops %}
-{% assign workshops = workshops | sort:"startDate" %}
+{% assign workshops = workshops | sort:"startDate" | reverse %}
 
 <!-- Document -->
 <table>

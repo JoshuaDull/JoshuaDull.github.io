@@ -13,7 +13,7 @@ Check back for publications, blog posts, and presentations by NESCLiC members.
 
 <!-- Publications -->
 {% assign publications = site.data.publications %}
-{% assign publications = publications | sort:"date" %}
+{% assign publications = publications | sort:"date" | reverse %}
 
 <!-- Document -->
 <table>
