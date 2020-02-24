@@ -1,0 +1,71 @@
+- date: '2019-07-29'
+  citation: >-
+    Atwood, T., Creamer, A., Dull, J., Goldman, J., Lee, K., Leligdon, L., and
+    Oelker, S. 2019. “Joining Together to Build More: The New England Software
+    Carpentry Library Consortium.” Journal of eScience Librarianship 8(1):
+    e1161.
+  type: Paper
+  link: 'https://doi.org/10.7191/jeslib.2019.1161'
+- date: '2019-05-16'
+  citation: >-
+    Gofman, A. “An ACRL Framework Approach towards Carpentries Instruction.”
+    RDAP Summit 2019.
+  type: Poster
+  link: 'https://osf.io/53bav/'
+- date: '2019-05-15'
+  citation: 'Goldman, J. “Data Science Training for the Future.” RDAP Summit 2019.'
+  type: Presentation
+  link: 'https://osf.io/zeh6f/'
+- date: '2019-03-29'
+  citation: >-
+    Goldman, J. “Data Science Training for the Future: Building a Carpentries
+    Consortium.” NNLM NER eScience Forum.
+  type: Presentation
+  link: >-
+    https://docs.google.com/presentation/d/1Qrxv8r_TtgrPzk3THZajX_LCutCLBLiUgdhB-xiekzQ/present?slide=id.g51e2d000df_0_247
+- date: '2019-03-05'
+  citation: >-
+    Dull, J., Lee, K. “Data Science Training for All” Electronic Resources and
+    Libraries.
+  type: Presentation
+  link: 'https://nesclic.github.io/docs/DataScienceTrainingforAll.pdf'
+- date: '2019-02-07'
+  citation: >-
+    Erdmann, C., Nyhan, K., Goldman, J. “Introduction to Library Carpentry and
+    Building a Carpentries Consortium.” NNLM Research Data Management Webinar
+    Series.
+  type: Presentation
+  link: 'https://nesclic.github.io/docs/20190207-NNLM-Carpentries-Webinar.pdf'
+- date: '2018-10-30'
+  citation: >-
+    Nyhan, K., Goldman, J. “Building a Library Carpentries Consortium.” North
+    Atlantic Health Sciences Libraries, Inc. 2018 Annual Conference, Manchester,
+    NH.
+  type: Presentation
+  link: >-
+    https://nesclic.github.io/docs/20181030-NAHSL-Building-a-Library-Carpentries-Consortium.pdf
+- date: '2018-08-13'
+  citation: >-
+    Dull, J., Atwood, T., Creamer, A., Goldman, J., Lee, K., Leligdon, L.,
+    Oelker, S., Erdmann, C. (2018, August 13). New England Libraries Team Up to
+    Become Carpentries Members [Blog post]. Retrieved from
+    https://librarycarpentry.org/blog/2018/08/new-england-libraries-carpentries-consortium/
+  type: Blog
+  link: >-
+    https://librarycarpentry.org/blog/2018/08/new-england-libraries-carpentries-consortium/
+- date: '2018-04-05'
+  citation: >-
+    Atwood, T., Creamer, A., Dull, J., Goldman, J., Lee, K., Leligdon, L.,
+    Oelker, S. “The New England Software Carpentry Library Consortium:
+    Developing a Carpentry Instructor Community of Practice.” The 10th Annual
+    University of Massachusetts and New England Area Librarian e-Science
+    Symposium, Worcester, MA.
+  type: Poster
+  link: 'https://nesclic.github.io/docs/20180404_eSciencePoster.pdf'
+- date: '2017-10-10'
+  citation: >-
+    Dull, J., Lee, K., Leligdon, L. (2017, October 10). Working together to join
+    Software Carpentry in New England [Blog post]. Retrieved from
+    https://words.usask.ca/ceblipblog/tag/software-carpentry/
+  type: Blog
+  link: 'https://words.usask.ca/ceblipblog/tag/software-carpentry/'
