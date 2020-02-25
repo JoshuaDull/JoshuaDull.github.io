@@ -7,15 +7,17 @@
   Pronouns: he/him
   Image: AC_Brown.jpg
   Active: ''
+  Skills: ''
 - Name: Sarah Oelker
   sortName: Oelker
   Institution: Mt Holyoke
   yearJoined: '2018'
   Title: Science Librarian
   Logo: mtholyoke.png
-  Pronouns: they/them
+  Pronouns: ''
   Image: soelker2015.jpg
   Active: ''
+  Skills: ''
 - Name: James Burke
   sortName: Burke
   Institution: Mt Holyoke
@@ -25,6 +27,7 @@
   Pronouns: ''
   Image: Burkeapr18.jpg
   Active: ''
+  Skills: ''
 - Name: Thea Atwood
   sortName: Atwood
   Institution: UMass Amherst
@@ -34,6 +37,7 @@
   Pronouns: ''
   Image: tpa_profile02.jpg
   Active: ''
+  Skills: ''
 - Name: Patrick Rashleigh
   sortName: Rashleigh
   Institution: Brown
@@ -43,6 +47,7 @@
   Pronouns: ''
   Image: PR_Brown.png
   Active: ''
+  Skills: ''
 - Name: Bruce Boucek
   sortName: Boucek
   Institution: Harvard
@@ -52,6 +57,7 @@
   Pronouns: ''
   Image: BB_Brown.png
   Active: ''
+  Skills: ''
 - Name: Lora C. Leligdon
   sortName: Leligdon
   Institution: Dartmouth
@@ -61,6 +67,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: 'Christian Darabos '
   sortName: Darabos
   Institution: Dartmouth
@@ -70,6 +77,7 @@
   Pronouns: ''
   Image: CD_Dartmouth.jpg
   Active: ''
+  Skills: ''
 - Name: Julie Goldman
   sortName: Goldman
   Institution: Harvard
@@ -79,6 +87,7 @@
   Pronouns: ''
   Image: goldman-harvard.jpg
   Active: ''
+  Skills: ''
 - Name: Ceilyn Boyd
   sortName: Boyd
   Institution: Harvard
@@ -88,6 +97,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Kristin Lee
   sortName: Lee
   Institution: Tufts
@@ -97,6 +107,7 @@
   Pronouns: she/her
   Image: KL_Tufts.jpg
   Active: ''
+  Skills: ''
 - Name: Ari Gofman
   sortName: Gofman
   Institution: Tufts
@@ -106,6 +117,7 @@
   Pronouns: they/them
   Image: AG_Tufts.png
   Active: ''
+  Skills: ''
 - Name: Kyle Monahan
   sortName: Monahan
   Institution: 'Tufts '
@@ -115,6 +127,7 @@
   Pronouns: he/him
   Image: KM_Tufts.jpg
   Active: ''
+  Skills: ''
 - Name: Joshua Dull
   sortName: Dull
   Institution: Yale
@@ -124,6 +137,7 @@
   Pronouns: ''
   Image: JD100x100.png
   Active: ''
+  Skills: ''
 - Name: Catherine DeRose
   sortName: DeRose
   Institution: Yale
@@ -133,6 +147,7 @@
   Pronouns: ''
   Image: CD100x100.png
   Active: ''
+  Skills: ''
 - Name: Kate Nyhan
   sortName: Nyhan
   Institution: Yale
@@ -142,6 +157,7 @@
   Pronouns: she/hers
   Image: KN100x100.png
   Active: ''
+  Skills: ''
 - Name: James Adams
   sortName: Adams
   Institution: Dartmouth
@@ -151,6 +167,7 @@
   Pronouns: ''
   Image: JA_Dartmouth.png
   Active: ''
+  Skills: ''
 - Name: Kelsey Sawyer
   sortName: Sawyer
   Institution: Brown
@@ -160,6 +177,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Ashley Champagne
   sortName: Champagne
   Institution: Brown
@@ -169,6 +187,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Pamela Bagley
   sortName: Bagley
   Institution: Dartmouth
@@ -178,6 +197,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Stephen Gaughan
   sortName: Gaughan
   Institution: Dartmouth
@@ -187,6 +207,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Meghan Kerr
   sortName: Kerr
   Institution: Harvard
@@ -196,6 +217,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Susan Remondi
   sortName: Remondi
   Institution: Tufts
@@ -205,6 +227,7 @@
   Pronouns: she/her
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Travis Lilleberg
   sortName: Lilleberg
   Institution: Tufts
@@ -214,6 +237,7 @@
   Pronouns: he/him
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Jennifer Chaput
   sortName: Chaput
   Institution: UConn
@@ -223,6 +247,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Erin Jerome
   sortName: Jerome
   Institution: UMass Amherst
@@ -232,6 +257,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Ann Kardos
   sortName: Kardos
   Institution: UMass Amherst
@@ -241,6 +267,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Tess Grynoch
   sortName: Grynoch
   Institution: 'UMass Medical '
@@ -250,6 +277,7 @@
   Pronouns: ''
   Image: TG_umass.jpg
   Active: ''
+  Skills: ''
 - Name: Sally Gore
   sortName: Gore
   Institution: 'UMass Medical '
@@ -259,6 +287,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: David Cirella
   sortName: Cirella
   Institution: Yale
@@ -268,6 +297,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Barbara Esty
   sortName: Esty
   Institution: Yale
@@ -277,6 +307,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Sawyer Newman
   sortName: Newman
   Institution: Yale
@@ -286,6 +317,7 @@
   Pronouns: ''
   Image: SN_yale.jpg
   Active: ''
+  Skills: ''
 - Name: Allison Xu
   sortName: Xu
   Institution: Boston College
@@ -295,6 +327,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Philip Espinola Coombs
   sortName: Coombs
   Institution: Boston University
@@ -304,6 +337,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Margarita Corral
   sortName: Corral
   Institution: Brandeis
@@ -313,6 +347,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Emily Ferrier
   sortName: Ferrier
   Institution: Brown
@@ -322,6 +357,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Lydia Curliss
   sortName: Curliss
   Institution: Brown
@@ -331,6 +367,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Crystal Brusch
   sortName: Brusch
   Institution: Brown
@@ -340,6 +377,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Jing Qi
   sortName: Qi
   Institution: Dartmouth
@@ -349,6 +387,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: John Cocklin
   sortName: Cocklin
   Institution: Dartmouth
@@ -358,6 +397,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Paige Scudder
   sortName: Scudder
   Institution: Dartmouth
@@ -367,6 +407,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Richard Brittain
   sortName: Brittain
   Institution: Dartmouth
@@ -376,6 +417,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Matt Cook
   sortName: Cook
   Institution: Harvard
@@ -385,6 +427,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Sarah Hauserman
   sortName: Hauserman
   Institution: Harvard
@@ -394,6 +437,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Bahare Sanaie-Movahed
   sortName: Sanaie-Movahed
   Institution: Northeastern
@@ -403,6 +447,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Kate Kryder
   sortName: Kryder
   Institution: Northeastern
@@ -412,6 +457,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Andrea Kang
   sortName: Kang
   Institution: Tufts
@@ -421,6 +467,7 @@
   Pronouns: she/her
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Berika Williams
   sortName: Williams
   Institution: Tufts
@@ -430,6 +477,7 @@
   Pronouns: she/her
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Chelcie Rowell
   sortName: Rowell
   Institution: Tufts
@@ -439,6 +487,7 @@
   Pronouns: she/her
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Jake Perl
   sortName: Perl
   Institution: Tufts
@@ -448,6 +497,7 @@
   Pronouns: he/him
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Rebecca Morin
   sortName: Morin
   Institution: Tufts
@@ -457,7 +507,8 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
-- Name: Kaleigh Bohemier
+  Skills: ''
+- Name: Kayleigh Bohemier
   sortName: Bohemier
   Institution: Yale
   yearJoined: '2020'
@@ -466,6 +517,7 @@
   Pronouns: she/her
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Rashelle Nagar
   sortName: Nagar
   Institution: Yale
@@ -475,6 +527,7 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
 - Name: Sara Gottlieb-Cohen
   sortName: Gottlieb-Cohen
   Institution: Yale
@@ -484,3 +537,4 @@
   Pronouns: ''
   Image: carpentries200x200.png
   Active: ''
+  Skills: ''
