@@ -30,7 +30,7 @@ Check back for updated publications, blog posts, and presentations by NESCLiC me
 	<tr>
 		<td class="date">{{ pub.date }}</td>
 		<td>{{ pub.citation }}</td>
-		<td><a href="{{ pub.link }}"><img src="{{ pub.type }}.png" alt="{{ pub.type }} icon" class="icon"></a></td>
+		<td><a href="{{ pub.link }}"><img src="/images/{{ pub.type }}.png" alt="{{ pub.type }} icon" class="icon"></a></td>
 	</tr>
 	{% endfor %}
 </table>
