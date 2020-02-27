@@ -69,12 +69,11 @@ redirect_from: /home/members/
 
 </div>
 
-<ul class="flex-container">
+
 <div class="grid">
 {% for member in members %}
 
 <div class="element-item selector {{ member.Class }}">
-  <li class="flex-item">
     <div class="headshot">
       <img src="/images/{{ member.Image }}" alt="Carpentries' Logo" class="clip-circle">
     </div><br>
@@ -84,8 +83,7 @@ redirect_from: /home/members/
      {{ member.Institution }} <br> 
      {{ member.yearJoined }}
     </div>
-  </li>
 </div>
-</div>
+
 {% endfor %}
-</ul>
+</div>
