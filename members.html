@@ -50,7 +50,7 @@ redirect_from: /home/members/
 {% assign members = members | sort:"sortName" %}
 
 <!-- Document -->
-<div id="schoolfilter" class="button-group filters-button-group">
+<div class="button-group filters-button-group">
   <button class="button is-checked" data-filter="">All Members</button>
   <button class="button" data-filter=".Boston-College">Boston College</button>
   <button class="button" data-filter=".Boston-University">Boston University</button>
@@ -69,7 +69,7 @@ redirect_from: /home/members/
 
 </div>
 
-<ul class="flex-container">
+<ul class="flex-container grid">
 
 {% for member in members %}
 
