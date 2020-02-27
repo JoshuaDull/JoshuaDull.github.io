@@ -6,6 +6,7 @@ redirect_from: /home/members/
 ---
 <head>
 <script src="/scripts/isotope.pkgd.min.js"></script>
+<script src="/scripts/selector.js"></script>
   <style>
 .headshot {
   width:100px;
@@ -47,11 +48,19 @@ redirect_from: /home/members/
 {% assign members = site.data.members %}
 {% assign members = members | sort:"sortName" %}
 
-<script type="text/javascript"></script>
-
 <!-- Document -->
+<div id="schoolfilter" class="button-group">
+  <button class="button is-checked" data-filter="">All Members</button>
+  {% for member in members %}
+  <button class="button" data-filter=".{{ member.Institution }}">{{ member.Institution }}</button>
+  {% endfor %}
+</div>
+
 <ul class="flex-container">
+
 {% for member in members %}
+
+<div class="{{ member.Institution }}">
   <li class="flex-item">
     <div class="headshot">
       <img src="/images/{{ member.Image }}" alt="Carpentries' Logo" class="clip-circle">
@@ -63,5 +72,6 @@ redirect_from: /home/members/
      {{ member.yearJoined }}
     </div>
   </li>
+</div>
 {% endfor %}
 </ul>
