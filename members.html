@@ -4,43 +4,7 @@ title: Members
 permalink: /members/
 redirect_from: /home/members/
 ---
-<head><style>
-.headshot {
-  width:100px;
-  height:100px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-.flex-container {
-  display: flex;
-  flex-flow: row wrap;  
-  justify-content: space-around;
-  padding: 0;
-  margin: 0;
-  list-style: none;
-}
-.flex-item {
-  padding: 5px;
-  width: 150px;
-  height: 225px;
-  margin: 10px;
-}
-.clip-circle {
-  clip-path: circle(50px at center);
-}
-.description {
-  text-align: center;
-  font-weight: 200;
-  font-size: 14px;
-}
-#name {
-  font-size: 18px;
-  color: #424242;
-  font-weight: 300;
-  line-height: 1.0;
-}
-</style></head>
+<link rel="stylesheet" href="style/style.css">
 <!-- Members -->
 {% assign members = site.data.members %}
 {% assign members = members | sort:"sortName" %}
