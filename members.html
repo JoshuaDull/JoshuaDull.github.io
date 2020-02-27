@@ -4,7 +4,9 @@ title: Members
 permalink: /members/
 redirect_from: /home/members/
 ---
-<head><style>
+<head>
+<script src="/scripts/isotope.pkgd.min.js"></script>
+  <style>
 .headshot {
   width:100px;
   height:100px;
@@ -44,6 +46,8 @@ redirect_from: /home/members/
 <!-- Members -->
 {% assign members = site.data.members %}
 {% assign members = members | sort:"sortName" %}
+
+<script type="text/javascript"></script>
 
 <!-- Document -->
 <ul class="flex-container">
