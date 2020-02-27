@@ -69,8 +69,8 @@ redirect_from: /home/members/
 
 </div>
 
-<ul class="flex-container grid">
-
+<ul class="flex-container">
+<div class="grid">
 {% for member in members %}
 
 <div class="element-item selector {{ member.Institution }}">
@@ -85,6 +85,7 @@ redirect_from: /home/members/
      {{ member.yearJoined }}
     </div>
   </li>
+</div>
 </div>
 {% endfor %}
 </ul>
