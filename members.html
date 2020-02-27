@@ -51,16 +51,28 @@ redirect_from: /home/members/
 <!-- Document -->
 <div id="schoolfilter" class="button-group">
   <button class="button is-checked" data-filter="">All Members</button>
-  {% for member in members %}
-  <button class="button" data-filter=".{{ member.Institution }}">{{ member.Institution }}</button>
-  {% endfor %}
+  <button class="button" data-filter=".Boston-College">Boston College</button>
+  <button class="button" data-filter=".Boston-University">Boston University</button>
+  <button class="button" data-filter=".Brandeis">Brandeis</button>
+  <button class="button" data-filter=".Brown">Brown University</button>
+  <button class="button" data-filter=".Dartmouth">Dartmouth College</button>
+  <button class="button" data-filter=".Harvard">Harvard University</button>
+  <button class="button" data-filter=".Mt-Holyoke">Mt. Holyoke College</button>
+  <button class="button" data-filter=".Northeastern">Northeastern University</button>
+  <button class="button" data-filter=".Tufts">Tufts University</button>
+  <button class="button" data-filter=".UConn">University of Connecticut</button>
+  <button class="button" data-filter=".UMass-Amherst">University of Massachusetts Amherst
+</button>
+  <button class="button" data-filter=".UMass-Medical">University of Massachusetts Medical School</button>
+  <button class="button" data-filter=".Yale">Yale University</button>
+
 </div>
 
 <ul class="flex-container">
 
 {% for member in members %}
 
-<div class="{{ member.Institution }}">
+<div class="element-item selector {{ member.Institution }}">
   <li class="flex-item">
     <div class="headshot">
       <img src="/images/{{ member.Image }}" alt="Carpentries' Logo" class="clip-circle">
