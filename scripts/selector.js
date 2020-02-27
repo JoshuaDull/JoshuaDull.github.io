@@ -1,20 +1,7 @@
 // init Isotope
-/*var $grid = $('.grid').isotope({
+var $grid = $('.grid').isotope({
     itemSelector : '.element-item',
-    layoutMode : 'fitRows',
-    getSortData : {
-        name: '.consname',
-        lname: function( itemElem ) {
-            var name = $( itemElem ).find('.consname').text();
-            return name.split(" ")[1] ;
-        },
-        fname: function( itemElem ) {
-            var name = $( itemElem ).find('.consname').text();
-            return name.split(" ")[0] ;
-        }
-    },
-    sortBy : 'name',
-});*/
+});
 
 var filters = {} ;
 
