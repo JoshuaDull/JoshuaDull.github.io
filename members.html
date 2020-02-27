@@ -68,10 +68,10 @@ redirect_from: /home/members/
 </div>
 
 
-<div class="grid">
+<div class="grid flex-container">
 {% for member in members %}
 
-<div class="element-item selector {{ member.Class }}">
+<div class="element-item selector {{ member.Class }} flex-item">
     <div class="headshot">
       <img src="/images/{{ member.Image }}" alt="Carpentries' Logo" class="clip-circle">
     </div><br>
