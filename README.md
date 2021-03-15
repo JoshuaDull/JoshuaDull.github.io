@@ -1,5 +1,5 @@
 # NESCLiC Website
-Future home for the NESCLiC Consortium website
+Fork of Joshua's Future home for the NESCLiC Consortium website work with intention of merging into existing site to make use of new yaml/jekyll/google sheets functionality. 
 
 ## Directory Layout
 docs/ 
