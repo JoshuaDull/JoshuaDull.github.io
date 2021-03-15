@@ -1,15 +1,15 @@
 # Site settings
 title: NESCLiC
-github_username: JoshuaDull
+github_username: oelker
 description: >
  New England Software Carpentry Library Consortium
-url: "https://joshuadull.github.io/"
+url: "https://nesclic2021web.github.io"
 
 # Build settings
 markdown: kramdown
 theme: minima
 
 
-github_repo: joshuadull.github.io
+github_repo: nesclic2021web.github.io
 
-integration_spreadsheet_key: 1r6tughs2XrcV4C5PC1r3NWLqwmLVHY4SWjSCkLld6ws
+integration_spreadsheet_key: AIzaSyDyi-jqCW2mlmc0687QIstJ48iQl6o3S1A
